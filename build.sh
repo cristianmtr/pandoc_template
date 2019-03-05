@@ -1,0 +1,1 @@
+pandoc --bibliography=bib.bib --include-in-header header.tex --toc -F pandoc-crossref -f markdown -t latex -o report.pdf *.md

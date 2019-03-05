@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a74b8474/
+MyLogisticRegression	..\\ex5.py	/^class MyLogisticRegression(object):$/;"	kind:class	line:20
+__init__	..\\ex5.py	/^    def __init__(self, x, y, num_steps, lr):$/;"	kind:member	line:21
+ex1	..\\ex1.py	/^def ex1():$/;"	kind:function	line:6
+ex1.py	..\\ex1.py	1;"	kind:file	line:1
+ex4.py	..\\ex4.py	1;"	kind:file	line:1
+ex5	..\\ex5.py	/^def ex5():$/;"	kind:function	line:47
+ex5.py	..\\ex5.py	1;"	kind:file	line:1
+func	..\\ex4.py	/^def func(p):$/;"	kind:function	line:5
+func_v	..\\ex4.py	/^func_v = func(p_v)$/;"	kind:variable	line:10
+np	..\\ex1.py	/^import numpy as np$/;"	kind:namespace	line:1
+np	..\\ex4.py	/^import numpy as np$/;"	kind:namespace	line:2
+np	..\\ex5.py	/^import numpy as np$/;"	kind:namespace	line:1
+output.py	..\\output.py	1;"	kind:file	line:1
+p_v	..\\ex4.py	/^p_v = np.linspace(0.0, 1, 500000)$/;"	kind:variable	line:9
+plt	..\\ex1.py	/^from matplotlib import pyplot as plt$/;"	kind:unknown	line:2
+plt	..\\ex5.py	/^from matplotlib import pyplot as plt$/;"	kind:unknown	line:2
+predict	..\\ex5.py	/^    def predict(self, x):$/;"	kind:member	line:38
+savefig	..\\output.py	/^def savefig(fig, fname):$/;"	kind:function	line:1
+sigmoid	..\\ex5.py	/^def sigmoid(x):$/;"	kind:function	line:9
+step	..\\ex5.py	/^def step(W, lr, x, y):$/;"	kind:function	line:13
