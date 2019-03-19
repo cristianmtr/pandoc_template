@@ -7,7 +7,11 @@
             "label": "build",
             "type": "shell",
             "command": "C:/Users/cristian/.babun/cygwin/bin/bash.exe build.sh",
-            "problemMatcher": []
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }

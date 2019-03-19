@@ -1,7 +1,11 @@
 ---
-title: Thesis
+title: Amazing Thesis on Generating Symbolic Music with Recurrent, Attention-Based Networks
 author: Cristian Mitroi
-date: '31 May 2019'
+supervisor: Manex Aguirrezabal Zabaleta
+institute: "University of Copenhagen"
+degree: "M. Sc. IT & Cognition"
+studydegree: "Master of Science"
+date: 'June, 2019'
 margin-left: 1in
 margin-right: 1in
 codeBlockCaptions: True
@@ -20,6 +24,4 @@ output:
   rmarkdown::pdf_document:
     fig_caption: yes
 ---
-
-\newpage
 
