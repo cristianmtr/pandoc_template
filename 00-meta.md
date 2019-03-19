@@ -1,4 +1,5 @@
 ---
+subparagraph: yes
 title: Amazing Thesis on Generating Symbolic Music with Recurrent, Attention-Based Networks
 author: Cristian Mitroi
 supervisor: Manex Aguirrezabal Zabaleta
