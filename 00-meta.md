@@ -1,6 +1,6 @@
 ---
 title: Thesis
-author: Your Name
+author: Cristian Mitroi
 date: '31 May 2019'
 margin-left: 1in
 margin-right: 1in
