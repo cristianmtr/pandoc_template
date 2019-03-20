@@ -1,0 +1,9 @@
+# Pandoc template for writing papers/thesis
+
+Check out the `*.md` files for the content and usage.
+
+Includes bibliography, citations, footnotes, math, tables, figures, TOC etc.
+
+Build with `build.sh`.
+
+Requires [pandoc](https://pandoc.org), [pandoc-crossref](https://github.com/lierdakil/pandoc-crossref), and [latex](https://miktex.org/download).
