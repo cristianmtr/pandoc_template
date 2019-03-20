@@ -1,10 +1,10 @@
 ---
 subparagraph: yes
-title: Amazing Thesis on Generating Symbolic Music with Recurrent, Attention-Based Networks
-author: Cristian Mitroi
-supervisor: Manex Aguirrezabal Zabaleta
-institute: "University of Copenhagen"
-degree: "M. Sc. IT & Cognition"
+title: Amazing Thesis ...
+author: Your Name
+supervisor: Their Name
+institute: "University of Neverland"
+degree: "M. Sc. SCIENCE!!"
 studydegree: "Master of Science"
 date: 'June, 2019'
 nocite: '@*'
