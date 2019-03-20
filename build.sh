@@ -1,1 +1,1 @@
-pandoc --bibliography=bib.bib --include-in-header header.tex --toc -F pandoc-crossref -f markdown -t latex --template=template.tex -o report.pdf *.md
+pandoc --bibliography=bib.bib --csl=ieee-with-url.csl --include-in-header header.tex --toc -F pandoc-crossref -f markdown -t latex --template=template.tex -o report.pdf *.md

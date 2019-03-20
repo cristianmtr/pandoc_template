@@ -7,6 +7,7 @@ institute: "University of Copenhagen"
 degree: "M. Sc. IT & Cognition"
 studydegree: "Master of Science"
 date: 'June, 2019'
+nocite: '@*'
 margin-left: 1in
 margin-right: 1in
 codeBlockCaptions: True
